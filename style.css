@@ -1,0 +1,77 @@
+body {
+    background-image: url(img/space.jpg);
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #f3eeee;
+    padding: 20px;
+    font-size: large;
+
+
+}
+
+p{
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    
+  
+}
+
+header {
+    background-color: #ffc107;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+h1 {
+    color: #fff;
+}
+
+section {
+    background: white;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+h1{
+    text-align: center;
+}
+
+#azurieli2{
+    margin-left: 40%;
+}
+#azurieli1{
+    margin-left: 40%;
+}
+
+#atom1{
+    margin-left: 10%;
+}
+#korobo1 {
+    margin-left: 30%;
+}
+#koroboeli1 {
+    margin-left: 30%;
+}
+#atomout1 {
+    margin-left: 30%;
+}
+#azuri {
+    margin-left: 30%;
+}
+#ekip1 {
+    margin-left: 18%;
+}
+
+#io{
+    font-size: larger;
+}
+
+footer{
+    margin-top: 70px;
+}
